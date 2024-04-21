@@ -1,7 +1,7 @@
 {
     "name": "𝐓𝐞𝐱𝐭 𝐋𝐞𝐞𝐜𝐡",
     "description": "𝑻𝒆𝒙𝒕 𝑳𝒆𝒆𝒄𝒉 𝑽𝒊𝒅𝒆𝒐 𝑬𝒙𝒕𝒓𝒂𝒄𝒕𝒐𝒓 𝑭𝒐𝒓 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎",
-    "logo": "https://telegra.ph/file/32f106d692ff33700c464.jpg",
+    "logo": "https://graph.org/file/45f562dc05b2874c7277e.jpg",
     "keywords": [
         "text-video",
         "video-extract",
@@ -20,7 +20,7 @@
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "7026601946:AAGKoR6tkqPmUN8uVmsaXeVGT1xQeE685D4",
+            "description": "7067642852:AAHp2vhYUsUIMb-xiT3Hx4ax-SnBMsBccoQ",
             "required": true
         },
         "OWNER_ID": {
