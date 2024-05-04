@@ -1,5 +1,5 @@
 build:
-heroku buildpacks:set heroku/python
+heroku buildpacks: set heroku/python
   docker:
     worker: Dockerfile
 run:
